@@ -29,7 +29,6 @@ The goal of this repository is to document my learning process, strengthen my un
 
 ```text
 ├── notebooks/      # Jupyter notebooks and exercises
-├── datasets/       # Datasets used throughout the course
 ├── images/         # Figures and visualizations
 └── README.md
 ```
